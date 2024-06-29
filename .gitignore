@@ -1,8 +1,8 @@
 .gitignore
-serwer/.vscode/*
-serwer/.idea/*
-serwer/.mvn/*
-serwer/target/*
+server/.vscode/*
+server/.idea/*
+server/.mvn/*
+server/target/*
 
 # Compiled class file
 *.class
