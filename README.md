@@ -11,3 +11,7 @@ The very first publish of this project has been made for initialization purposes
 A project with a work name (and propably final) Amnesia Communicator has officialy started on 30 June, 2024, released and officially created only by me - Elhatron
 
 Currently I'm using Signal App. If You want to ask me something, give me some advice, you find an issue etc. you can find me at: https://signal.me/#eu/3aywcMfKDRv7IJuT7wYeKjDpTu3mPv6A0A_JEV2UjqwEvvIusTdHar7r5mGPJBE9
+
+30.06.2024
+
+- Initial commit starting this adventure
