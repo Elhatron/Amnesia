@@ -1,3 +1,9 @@
+.gitignore
+serwer/.vscode/*
+serwer/.idea/*
+serwer/.mvn/*
+serwer/target/*
+
 # Compiled class file
 *.class
 
