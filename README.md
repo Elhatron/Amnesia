@@ -2,7 +2,7 @@
 
 Hello There
 
-The source code of a project that you are now watching begun as an final project of my Java course. 
+The source code of a project that you are now watching begun as an final project of my Java course.  
 
 A project of as private and anonymous as possible communicator with Java based server which recieves messages and store it encrypted until rciver downloads them.
 
